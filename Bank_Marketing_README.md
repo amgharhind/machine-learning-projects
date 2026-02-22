@@ -104,6 +104,4 @@ Then open the notebook in Jupyter and run all cells sequentially. Make sure `ban
 - **Feature Selection:** Given the large number of one-hot encoded columns, feature selection techniques (e.g., RFE or feature importance) could help reduce dimensionality and improve generalization.
 - **Hyperparameter Tuning:** Regularization strength (`C`) and solver choice for Logistic Regression have not been optimized. `GridSearchCV` could yield better results.
 
-## Acknowledgement
 
-I would like to express my sincere gratitude to my supervisor, **EL HABIB Ben Lahmar**, for his support and valuable guidance throughout this project.
