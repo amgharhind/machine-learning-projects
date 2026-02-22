@@ -99,11 +99,9 @@ This version significantly extends V1 by replacing raw numerical features with c
 ## Project Structure
 
 ```
-heart-health-ml/
-├── README.md                             # This file
-├── Heart_Health__ML_V1_AMGHAR_HIND.ipynb # Baseline preprocessing and SVM
-├── Heart_Health__ML_V2_AMGHAR_HIND.ipynb # Advanced feature engineering and pipeline
-└── Heart_health.csv                      # Source dataset
+heart-health-ml/                            
+├── Heart_Health__ML_V1_AMGHAR_HIND.ipynb   # Baseline preprocessing and SVM
+└── Heart_Health__ML_V2_AMGHAR_HIND.ipynb   # Advanced feature engineering and pipeline             
 ```
 
 ## Getting Started
